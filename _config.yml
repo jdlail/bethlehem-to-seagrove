@@ -47,12 +47,8 @@ defaults:
 # -----------
 
 baseurl: "" # 
-# baseurl: "/bethlehem-to-seagrove" # Uncomment this when pushing to GitHub Pages subpath
 url: https://BethlehemtoSeagrove.com
-# url: "https://jdlail.github.io"
-# Use this for GitHub Pages staging
 urlimg: "/images/"
-# urlimg: "/bethlehem-to-seagrove/images/"
 
 
 # -----------
