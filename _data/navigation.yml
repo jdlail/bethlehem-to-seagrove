@@ -1,15 +1,18 @@
 - title: Home
   url: /
   side: right
-- title: About
-  url: /about/
-  side: right
 - title: The Book
   url: /book/
   side: right
+- title: Timeline
+  url: /timeline/
+  side: right 
 - title: Testimonials
   url: /testimonials/
   side: right
 - title: Audio
   url: /audio/
+  side: right
+- title: About
+  url: /about/
   side: right

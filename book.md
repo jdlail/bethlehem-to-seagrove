@@ -29,3 +29,11 @@ Rich with local history and personal anecdotes, Bethlehem … to Seagrove serves
 ### About the cover
 
 The farm house on the cover of the book is a photograph of a painting by Betty E. Lail of the "Bowman Farm" in Alexander County, North Carolina, where the family eventually settled and operated a dairy farm for many years.
+
+### About the Team
+
+- Jack C. Lail – Author
+- Sandra Lail – Project Manager & Editor
+- Jack D. Lail – Editor & Website Creator
+- Betty Edwards Lail – Cover Artist
+- Sue Spencer – Proofreader
