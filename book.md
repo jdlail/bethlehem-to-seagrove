@@ -6,7 +6,9 @@ header:
   image_fullwidth: "header-image-1600x350.webp"
 ---
 
-![Bethlehem … to Seagrove book cover](/images/book-cover-800.webp)
+<img src="{{ '/images/book-cover-800.webp' | relative_url }}"
+     alt="Bethlehem... to Seagrove book cover"
+     style="float: right; width: 280px; margin: 0 0 20px 20px; border: 1px solid #ddd; box-shadow: 5px 5px 15px rgba(0,0,0,0.1);">
 
 **Coming March 2026 to Amazon in Paperback and Kindle.**
 
@@ -23,3 +25,7 @@ Central to the book is Jack’s professional ascent as an influential entreprene
 Beyond the business success, this memoir is a deeply personal history of the Lail family. It captures the essence of a man who is "slow to speak but careful to listen," painting a portrait of a leader who prioritized his employees and his community. It is a story of roots—from the red clay of Bethlehem to the thriving success of Seagrove—and the legacy left for his children, grandchildren, his community and the many lives he touched along the way.
 
 Rich with local history and personal anecdotes, Bethlehem … to Seagrove serves as both a family legacy and a testament to the American spirit. It is an account of a life lived with purpose, documenting the transformation of a rural North Carolina boy into a respected community leader. This memoir ensures that the stories of the Lail family, and the values that guided him for nearly a century, are preserved for generations to come.
+
+### About the cover
+
+The farm house on the cover of the book is a photograph of a painting by Betty E. Lail of the "Bowman Farm" in Alexander County, North Carolina, where the family eventually settled and operated a dairy farm for many years.
