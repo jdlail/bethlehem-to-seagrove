@@ -25,3 +25,94 @@
         height: 350px !important;
     }
 }
+
+/* Navigation Menu Custom Colors */
+
+/* 1. Change the hover background on menu items */
+#navigation .top-bar-section li:not(.has-form) a:hover {
+    background-color: #bad0d4 !important;
+    color: #333 !important;
+    /* Adjust text color for contrast if needed */
+}
+
+/* 2. Change the background for the current/active page */
+#navigation .top-bar-section li.active:not(.has-form) a {
+    background-color: #bad0d4 !important;
+    color: #333 !important;
+}
+
+/* 3. Dropdown menu hover color */
+#navigation .top-bar-section .dropdown li:not(.has-form) a:hover {
+    background-color: #bad0d4 !important;
+}
+
+/* Footer Custom Colors */
+
+/* 1. Change the link color in the subfooter (right side) */
+#subfooter-right a,
+#subfooter-right .social-icons a {
+    color: #bad0d4 !important;
+}
+
+/* 2. Change the hover state for footer links */
+#subfooter-right a:hover,
+#subfooter-right .social-icons a:hover {
+    color: #ffffff !important;
+    /* Makes them pop to white when hovered */
+}
+
+/* 3. If your social icons have a background circle, you can update that too */
+.social-icons a {
+    background: transparent !important;
+    /* Removes default background if desired */
+    font-size: 1.5rem !important;
+}
+
+/* Change default footer/credits text color from green to light blue */
+#subfooter-right,
+#subfooter-right p,
+#subfooter-right .credits,
+#subfooter-right .credits a {
+    color: #bad0d4 !important;
+}
+
+/* Ensure the left side matches if needed */
+#subfooter-left,
+#subfooter-left p,
+#subfooter-left ul li {
+    color: #bad0d4 !important;
+}
+
+.social-icons li a i,
+.social-icons li a span {
+    color: #bad0d4 !important;
+}
+
+/* 1. Change Footer Links (the "green" area) to Light Blue */
+#footer a,
+.footer-link,
+#subfooter-right a,
+.credits a {
+    color: #bad0d4 !important;
+}
+
+/* 2. Fix the Navigation Hover/Active backgrounds */
+/* In your settings, $topbar-link-bg-hover was set to $ci-6 (green) */
+.top-bar-section li:not(.has-form) a:hover,
+.top-bar-section li.active:not(.has-form) a,
+.top-bar-section .dropdown li:not(.has-form) a:hover {
+    background-color: #bad0d4 !important;
+    color: #111 !important;
+    /* Dark text for better legibility on light blue */
+}
+
+/* 3. Mobile Menu Background fix */
+/* $topbar-dropdown-bg was also green */
+.top-bar-section .dropdown li a {
+    background-color: #313131;
+    /* Keep dropdowns dark */
+}
+
+.top-bar-section .dropdown li a:hover {
+    background-color: #bad0d4 !important;
+}

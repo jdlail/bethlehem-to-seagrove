@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: page
 header:
   image_fullwidth: header-image-1600x350.webp
   caption: "Coming March 2026"
