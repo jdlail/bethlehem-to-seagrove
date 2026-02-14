@@ -3,5 +3,5 @@ layout: page
 title: "The Book"
 permalink: /book/
 header:
-  image_fullwidth: "header_roadmap_3.jpg"
+  image_fullwidth: "header-image-1600x350.webp"
 ---

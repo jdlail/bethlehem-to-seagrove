@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 header:
-  image_fullwidth: header_typewriter.jpg
+  image_fullwidth: header-image-1600x350.webp
   caption: "Coming March 2026"
   caption_url: "/book/"
 title: "Bethlehem to Seagrove"

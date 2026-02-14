@@ -1,0 +1,27 @@
+/* Custom Header Fixes for 1600x350 Montage */
+
+#masthead {
+    /* Ensures the image doesn't zoom/crop on desktop */
+    background-size: cover;
+    background-position: center center;
+}
+
+/* Fix for mobile screens */
+@media only screen and (max-width: 640px) {
+    #masthead {
+        /* Allow the header to shrink to the image's height */
+        height: auto !important;
+        min-height: 120px;
+
+        /* Forces the full width of the collage to be visible */
+        background-size: 100% auto !important;
+        background-repeat: no-repeat;
+    }
+}
+
+/* Adjust Large Screens to match 350px image exactly */
+@media only screen and (min-width: 1025px) {
+    #masthead {
+        height: 350px !important;
+    }
+}

@@ -70,7 +70,7 @@ header:
 # Logo - if you have one, place it in /images/logo.png
 # -----------
 
-logo: "logo.png"
+# logo: "logo.png"
 
 # ----------- 
 # Plugins - Cleaned up to only what is necessary

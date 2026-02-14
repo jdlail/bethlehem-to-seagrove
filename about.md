@@ -3,7 +3,7 @@ layout: page
 title: "About the Author"
 permalink: /about/
 header:
-  image_fullwidth: "header_roadmap_2.jpg"
+  image_fullwidth: "header-image-1600x350.webp"
 ---
 
 Jack Columbus Lail was born on April 6, 1933, into a large farming family in the rural community of Bethlehem, North Carolina. Growing up during the Great Depression, he was the tenth child in a family that faced significant hardships, including the foreclosure of their family farm the year he was born.
