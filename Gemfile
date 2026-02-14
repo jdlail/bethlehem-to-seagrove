@@ -1,13 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', '~> 4.3.2'
 
 group :jekyll_plugins do
   gem 'jekyll-gist'
-  gem 'jekyll-paginate'
-  gem "jekyll-asciidoc"
+  gem 'jekyll-sitemap'
+  gem 'jekyll-include-cache'
 end
 
-gem 'asciidoctor', '~> 1.5.4'
-gem 'coderay', '1.1.1'
-
+# The feeling-responsive theme sometimes requires these for styling
+gem 'webrick', '~> 1.7'
