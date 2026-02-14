@@ -4,5 +4,13 @@ title: "Permissions for Web Crawlers"
 permalink: /robots.txt
 source: "www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449" # www.robotstxt.org
 ---
+
 User-agent: *
+Allow: /
+
+# Exclude internal folders
+Disallow: /assets/
+Disallow: /vendor/
+
+# Dynamic Sitemap Reference
 Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml

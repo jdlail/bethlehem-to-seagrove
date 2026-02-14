@@ -46,18 +46,14 @@ defaults:
 # Production
 # -----------
 
-baseurl: "/bethlehem-to-seagrove" # Uncomment this when pushing to GitHub Pages subpath
-url: "https://jdlail.github.io"
+baseurl: "" # 
+# baseurl: "/bethlehem-to-seagrove" # Uncomment this when pushing to GitHub Pages subpath
+url: https://BethlehemtoSeagrove.com
+# url: "https://jdlail.github.io"
 # Use this for GitHub Pages staging
-urlimg: "/bethlehem-to-seagrove/images/"
+urlimg: "/images/"
+# urlimg: "/bethlehem-to-seagrove/images/"
 
-# ------------
-# Development
-# ------------
-
-# baseurl: "" # Keep empty for local IDX testing or when your custom domain is live
-# Image path - Pointing to your root images folder
-# urlimg: "/images/"
 
 # -----------
 # Default header image for all pages
