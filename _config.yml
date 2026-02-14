@@ -18,15 +18,7 @@ author: jacklail
 # Credits (Keeping the theme attribution as requested by the license)
 # -------------------
 
-credits: '<p>Created by Jack D. Lail. Theme based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
-
-# -------------------
-# Social Media
-# -------------------
-
-socialmedia:
-    threads   : @jacklail
-
+credits: "Created by Jack D. Lail. Theme based on <a href='http://phlow.github.io/feeling-responsive/'>Feeling Responsive</a>."
 
 # -------------------
 # Default Settings
