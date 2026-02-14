@@ -1,6 +1,18 @@
-_site
-.bundle
-.DS_Store
-.jekyll-cache
+# Jekyll & Sass
+_site/
+.jekyll-cache/
 .jekyll-metadata
-.sass-cache
+.sass-cache/
+
+# Ruby & Bundler
+.bundle/
+vendor/
+Gemfile.lock
+
+# Operating System & Editors
+.DS_Store
+.idx/
+*.log
+
+# Personal Backups & Drafts
+_drafts/
