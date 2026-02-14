@@ -1,44 +1,106 @@
+# ------------
 # Website Identity
+# ------------
+
 title: "Bethlehem... to Seagrove"
 slogan: "The memoir of Jack C. Lail"
-description: "Follow the journey of Jack C. Lail in this personal memoir, covering history, family, and life. Available March 2026."
-author: "Jack D. Lail" # You as the site maintainer/son
+description: "A story of resilience and leadership: follow Jack C. Lail's personal journey from a childhood in rural Bethlehem during the Great Depression to becoming a cornerstone of the Seagrove community. This memoir captures nearly a century of family, history, and a life dedicated to servant leadership and integrity. Available March 2026."
 
+# -------------------
+# Author Information
+# Main author of the website
+# See > authors.yml
+# -------------------
+
+author: jacklail
+
+# -------------------
 # Credits (Keeping the theme attribution as requested by the license)
+# -------------------
+
 credits: '<p>Created by Jack D. Lail. Theme based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
+# -------------------
+# Social Media
+# -------------------
 
+socialmedia:
+    threads   : @jacklail
+
+
+# -------------------
+# Default Settings
+# -------------------
+
+defaults:
+  - scope:
+      path: ''
+      type: 'pages'
+    values:
+      layout: "page" # Moved this here
+      show_meta: false
+      comments: false
+      author: jacklail
+  - scope:
+      path: ''
+      type: 'posts'
+    values:
+      layout: "post"
+      show_meta: true
+      comments: false
+      author: jacklail
+
+# -----------
 # Production
+# -----------
+
 baseurl: "/bethlehem-to-seagrove" # Uncomment this when pushing to GitHub Pages subpath
 url: "https://jdlail.github.io"
 # Use this for GitHub Pages staging
 urlimg: "/bethlehem-to-seagrove/images/"
 
+# ------------
 # Development
-#baseurl: "" # Keep empty for local IDX testing or when your custom domain is live
+# ------------
+
+# baseurl: "" # Keep empty for local IDX testing or when your custom domain is live
 # Image path - Pointing to your root images folder
 # urlimg: "/images/"
 
-
+# -----------
 # Default header image for all pages
+# -----------
+
 header:
   image_fullwidth: "header_typewriter.jpg"
 
+# -----------
 # Logo - if you have one, place it in /images/logo.png
+# -----------
+
 logo: "logo.png"
 
+# ----------- 
 # Plugins - Cleaned up to only what is necessary
+# ----------- 
+
 plugins:
     - jekyll-gist
     - jekyll-sitemap
 
+# ----------- 
 # Markdown & Permalink Settings
+# -----------
+
 markdown: kramdown
 highlighter: rouge
 # Simpler permalink structure for your pages
 permalink: /:title/
 
+# ----------- 
 # Exclude these files from your production build
+# -----------
+
 exclude:
     - .sass-cache
     - Gemfile
@@ -49,24 +111,31 @@ exclude:
     - .idx
     - pages # The folder where you store your backups
 
+# ----------
 # Language
+# ----------
+
 language: 'en'
 
+# ----------
 # Default Settings for Pages (Disabling comments and metadata)
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'pages'
-    values:
-      layout: "page"
-      show_meta: false
-      comments: false
+# ----------
 
+# ----------
 # Sass settings
+# ----------
+
 sass:
     sass_dir: _sass
     style: :compressed
 
+# ----------
+# Navigation Note
+#  Open _data/navigation.yml to adjust the left and right topbar navigation
+# -----------
+
+# ----------
+# Misc. notes
 # Note: All social media and search verification IDs are commented out
 # to keep the site clean until you need them.
+# ----------

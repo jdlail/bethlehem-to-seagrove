@@ -2,14 +2,18 @@
 layout: frontpage
 header:
   image_fullwidth: header_typewriter.jpg
+  caption: "Coming March 2026"
+  caption_url: "/book/"
 title: "Bethlehem to Seagrove"
 slogan: "The Memoir of Jack C. Lail"
 permalink: /index.html
 homepage: true
 ---
 
-### From Bethlehem... to Seagrove
+### Bethlehem... to Seagrove
 
-This is where you can place a compelling introductory paragraph about the book. You might mention the journey from your father's beginnings to his career in journalism, or a brief hook about the memoir's contents.
+Jack Columbus Lail is quiet, unassuming, and slow to speak but careful to listen. Yet, he is an influential entrepreneur and community leader who founded Mid-State Plastics and shaped Randolph County for decades.
 
-**Coming in March 2026 to Amazon in Paperback and Kindle.**
+This memoir captures his 93-year journey—from his roots in the farming community of Bethlehem during the Great Depression to his success in Seagrove. It is a story of resilience, integrity, and a life dedicated to his family, his community, and the employees who made his success possible.
+
+**Coming March 2026 to Amazon in Paperback and Kindle.**
