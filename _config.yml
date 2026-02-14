@@ -1,20 +1,24 @@
 # Website Identity
 title: "Bethlehem... to Seagrove"
 slogan: "The memoir of Jack C. Lail"
-description: "Follow the journey of Jack C. Lail in this personal memoir, covering history, family, and a life in journalism. Available March 2026."
+description: "Follow the journey of Jack C. Lail in this personal memoir, covering history, family, and life. Available March 2026."
 author: "Jack D. Lail" # You as the site maintainer/son
 
 # Credits (Keeping the theme attribution as requested by the license)
 credits: '<p>Created by Jack D. Lail. Theme based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
 
-# Destination settings (Production)
-# baseurl: "/bethlehem-to-seagrove" # Uncomment this when pushing to GitHub Pages subpath
-# url: "https://jdlail.github.io"
-baseurl: "" # Keep empty for local IDX testing or when your custom domain is live
-url: "http://localhost:4000"
 
+# Production
+baseurl: "/bethlehem-to-seagrove" # Uncomment this when pushing to GitHub Pages subpath
+url: "https://jdlail.github.io"
+# Use this for GitHub Pages staging
+urlimg: "/bethlehem-to-seagrove/images/"
+
+# Development
+#baseurl: "" # Keep empty for local IDX testing or when your custom domain is live
 # Image path - Pointing to your root images folder
-urlimg: "/images/"
+# urlimg: "/images/"
+
 
 # Default header image for all pages
 header:
