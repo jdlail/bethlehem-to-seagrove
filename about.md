@@ -6,7 +6,7 @@ header:
   image_fullwidth: "header-image-1600x350.webp"
 ---
 
-Jack Columbus Lail was born on April 6, 1933, into a large farming family in the rural community of Bethlehem, North Carolina. Growing up during the Great Depression, he was the tenth child in a family that faced significant hardships, including the foreclosure of their family farm the year he was born.
+Jack C. Lail was born on April 6, 1933, into a large farming family in the rural community of Bethlehem, North Carolina. Growing up during the Great Depression, he was the tenth child in a family that faced significant hardships, including the foreclosure of their family farm the year he was born.
 
 His early life was shaped by hard work on various rental farms, particularly a Duke Power rental farm on the banks of Lake Hickory. He began his education in Bethlehem and was a high-performing student, eventually graduating from Taylorsville High School in 1951.
 

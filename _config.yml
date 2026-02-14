@@ -2,7 +2,7 @@
 # Website Identity
 # ------------
 
-title: "Bethlehem... to Seagrove"
+title: "Bethlehem ... to Seagrove"
 slogan: "The memoir of Jack C. Lail"
 description: "A story of resilience and leadership: follow Jack C. Lail's personal journey from a childhood in rural Bethlehem during the Great Depression to becoming a cornerstone of the Seagrove community. This memoir captures nearly a century of family, history, and a life dedicated to servant leadership and integrity. Available March 2026."
 
@@ -131,3 +131,15 @@ sass:
 # Note: All social media and search verification IDs are commented out
 # to keep the site clean until you need them.
 # ----------
+
+# -----------
+# Favicon Sett  ings
+# -----------
+
+favicon-32x32: 'favicon-96x96.png' # Mapping your 96px to this slot
+touch-icon-192x192: 'web-app-manifest-192x192.png'
+apple-touch-icon-precomposed: 'apple-touch-icon.png'
+
+# Modern browsers will find favicon.ico and favicon.svg automatically 
+# if they are in assets/img/, but we can specify the tile color here:
+msapplication_tilecolor: '#bad0d4'

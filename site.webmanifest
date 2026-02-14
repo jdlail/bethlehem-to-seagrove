@@ -1,0 +1,21 @@
+{
+  "name": "Bethlehem... to Seagrove",
+  "short_name": "Seagrove",
+  "icons": [
+    {
+      "src": "/bethlehem-to-seagrove/assets/img/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/bethlehem-to-seagrove/assets/img/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#bad0d4",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}

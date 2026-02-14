@@ -10,10 +10,12 @@ permalink: /index.html
 homepage: true
 ---
 
-### Bethlehem... to Seagrove
+### Bethlehem … to Seagrove
 
 Jack Columbus Lail is quiet, unassuming, and slow to speak but careful to listen. Yet, he is an influential entrepreneur and community leader who founded Mid-State Plastics and shaped Randolph County for decades.
 
 This memoir captures his 93-year journey—from his roots in the farming community of Bethlehem during the Great Depression to his success in Seagrove. It is a story of resilience, integrity, and a life dedicated to his family, his community, and the employees who made his success possible.
+
+This site includes audio recordings of the dictation used to create the book so you can hear the author in his own voice.
 
 **Coming March 2026 to Amazon in Paperback and Kindle.**
