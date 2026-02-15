@@ -10,8 +10,6 @@ permalink: /index.html
 homepage: true
 ---
 
-### Bethlehem … to Seagrove
-
 Jack C. Lail is quiet, unassuming, and slow to speak but careful to listen. Yet, he is an influential entrepreneur and community leader who founded Mid-State Plastics and shaped Randolph County for decades.
 
 This memoir captures his 93-year journey—from his roots in the farming community of Bethlehem during the Great Depression to his success in Seagrove. It is a story of resilience, integrity, and a life dedicated to his family, his community, and the employees who made his success possible.
