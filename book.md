@@ -6,9 +6,7 @@ header:
   image_fullwidth: "header-image-1600x350.webp"
 ---
 
-<img src="{{ '/images/book-cover-800.webp' | relative_url }}"
-     alt="Bethlehem... to Seagrove book cover"
-     style="float: right; width: 280px; margin: 0 0 20px 20px; border: 1px solid #ddd; box-shadow: 5px 5px 15px rgba(0,0,0,0.1);">
+<img src="{{ '/images/book-cover-800.webp' | relative_url }}" alt="Bethlehem... to Seagrove book cover" class="feature-img-responsive">
 
 **Coming March 2026 to Amazon in Paperback and Kindle.**
 

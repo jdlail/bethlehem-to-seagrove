@@ -1,22 +1,10 @@
-/* Custom Header Fixes for 1600x350 Montage */
+/* ==========================================================================
+   1. CUSTOM HEADER FIXES (1600x350 Montage)
+   ========================================================================== */
 
 #masthead {
-    /* Ensures the image doesn't zoom/crop on desktop */
     background-size: cover;
     background-position: center center;
-}
-
-/* Fix for mobile screens */
-@media only screen and (max-width: 640px) {
-    #masthead {
-        /* Allow the header to shrink to the image's height */
-        height: auto !important;
-        min-height: 120px;
-
-        /* Forces the full width of the collage to be visible */
-        background-size: 100% auto !important;
-        background-repeat: no-repeat;
-    }
 }
 
 /* Adjust Large Screens to match 350px image exactly */
@@ -26,93 +14,150 @@
     }
 }
 
-/* Navigation Menu Custom Colors */
-
-/* 1. Change the hover background on menu items */
-#navigation .top-bar-section li:not(.has-form) a:hover {
-    background-color: #bad0d4 !important;
-    color: #333 !important;
-    /* Adjust text color for contrast if needed */
+/* Fix for mobile screens */
+@media only screen and (max-width: 640px) {
+    #masthead {
+        height: auto !important;
+        min-height: 120px;
+        background-size: 100% auto !important;
+        background-repeat: no-repeat;
+    }
 }
 
-/* 2. Change the background for the current/active page */
-#navigation .top-bar-section li.active:not(.has-form) a {
-    background-color: #bad0d4 !important;
-    color: #333 !important;
+/* ==========================================================================
+   2. NAVIGATION - DESKTOP (Min-width: 641px)
+   ========================================================================== */
+
+@media only screen and (min-width: 641px) {
+
+    /* Full transparency for the desktop header area */
+    #navigation,
+    .top-bar,
+    .top-bar-section,
+    .top-bar-section ul,
+    .top-bar-section ul li {
+        background: transparent !important;
+        background-color: transparent !important;
+    }
+
+    /* Standard Dark text for white header */
+    #navigation .top-bar-section li:not(.has-form) a {
+        color: #333333 !important;
+        background: transparent !important;
+        padding: 0 15px;
+        font-weight: bold;
+    }
+
+    /* Active & Hover states (Light Blue / Dark Text) */
+    #navigation .top-bar-section li.active:not(.has-form) a,
+    #navigation .top-bar-section li:not(.has-form) a:hover {
+        background-color: #bad0d4 !important;
+        color: #111111 !important;
+    }
 }
 
-/* 3. Dropdown menu hover color */
-#navigation .top-bar-section .dropdown li:not(.has-form) a:hover {
-    background-color: #bad0d4 !important;
+/* ==========================================================================
+   3. NAVIGATION - MOBILE (Max-width: 640px)
+   ========================================================================== */
+
+@media only screen and (max-width: 640px) {
+
+    /* 1. FORCE THE "NAV" TEXT COLOR & TITLE (White/Light Blue) */
+    .top-bar .toggle-topbar a,
+    .top-bar .toggle-topbar a span,
+    .top-bar .title-area .name h1 a {
+        color: #ffffff !important;
+        background: transparent !important;
+    }
+
+    /* Target specifically the "NAV" text to be light blue like the desktop theme */
+    .top-bar .toggle-topbar a {
+        color: #bad0d4 !important;
+    }
+
+    /* 2. HAMBURGER ICON BARS (Light Blue) */
+    .toggle-topbar.menu-icon a span::after {
+        box-shadow: 0 0px 0 1px #bad0d4, 0 7px 0 1px #bad0d4, 0 14px 0 1px #bad0d4 !important;
+    }
+
+    /* 3. FORCE SOLID DARK BACKGROUND FOR DRAWER */
+    .top-bar.expanded,
+    .top-bar.expanded .title-area,
+    .top-bar.expanded .top-bar-section,
+    .top-bar-section ul,
+    .top-bar-section li {
+        background: #313131 !important;
+    }
+
+    /* 4. BASE STATE: White text on Dark background */
+    .top-bar-section ul li>a {
+        color: #ffffff !important;
+        background: #313131 !important;
+    }
+
+    /* 5. HIGHER PRIORITY: Active & Hover states (Light Blue Box / Dark Text) */
+    /* We use the 'li' and 'a' together to ensure this overrides the base white state */
+    .top-bar-section li.active>a,
+    .top-bar-section li>a:hover,
+    .top-bar-section li.active:not(.has-form) a,
+    .top-bar-section li:not(.has-form) a:hover {
+        background: #bad0d4 !important;
+        background-color: #bad0d4 !important;
+        color: #111111 !important;
+    }
 }
 
-/* Footer Custom Colors */
+/* ==========================================================================
+   4. RESPONSIVE IMAGES (Memoir Photos)
+   ========================================================================== */
 
-/* 1. Change the link color in the subfooter (right side) */
-#subfooter-right a,
-#subfooter-right .social-icons a {
-    color: #bad0d4 !important;
+.feature-img-responsive {
+    float: right;
+    width: 280px;
+    margin: 0 0 20px 20px;
+    border: 1px solid #ddd;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
 }
 
-/* 2. Change the hover state for footer links */
-#subfooter-right a:hover,
-#subfooter-right .social-icons a:hover {
-    color: #ffffff !important;
-    /* Makes them pop to white when hovered */
+@media only screen and (max-width: 640px) {
+    .feature-img-responsive {
+        float: none !important;
+        display: block !important;
+        margin: 0 auto 20px auto !important;
+        width: 100% !important;
+        max-width: 400px !important;
+    }
 }
 
-/* 3. If your social icons have a background circle, you can update that too */
-.social-icons a {
-    background: transparent !important;
-    /* Removes default background if desired */
-    font-size: 1.5rem !important;
-}
+/* ==========================================================================
+   5. FOOTER & SUBFOOTER (Light Blue Theme)
+   ========================================================================== */
 
-/* Change default footer/credits text color from green to light blue */
+/* Main Footer and Subfooter text/links */
+#footer a,
+.footer-link,
 #subfooter-right,
 #subfooter-right p,
 #subfooter-right .credits,
-#subfooter-right .credits a {
-    color: #bad0d4 !important;
-}
-
-/* Ensure the left side matches if needed */
+#subfooter-right .credits a,
+#subfooter-right a,
 #subfooter-left,
 #subfooter-left p,
-#subfooter-left ul li {
-    color: #bad0d4 !important;
-}
-
+#subfooter-left ul li,
 .social-icons li a i,
 .social-icons li a span {
     color: #bad0d4 !important;
 }
 
-/* 1. Change Footer Links (the "green" area) to Light Blue */
-#footer a,
-.footer-link,
-#subfooter-right a,
-.credits a {
-    color: #bad0d4 !important;
+/* Hover state for footer links (White) */
+#subfooter-right a:hover,
+#subfooter-right .social-icons a:hover {
+    color: #ffffff !important;
 }
 
-/* 2. Fix the Navigation Hover/Active backgrounds */
-/* In your settings, $topbar-link-bg-hover was set to $ci-6 (green) */
-.top-bar-section li:not(.has-form) a:hover,
-.top-bar-section li.active:not(.has-form) a,
-.top-bar-section .dropdown li:not(.has-form) a:hover {
-    background-color: #bad0d4 !important;
-    color: #111 !important;
-    /* Dark text for better legibility on light blue */
-}
-
-/* 3. Mobile Menu Background fix */
-/* $topbar-dropdown-bg was also green */
-.top-bar-section .dropdown li a {
-    background-color: #313131;
-    /* Keep dropdowns dark */
-}
-
-.top-bar-section .dropdown li a:hover {
-    background-color: #bad0d4 !important;
+/* Social Icon adjustments */
+.social-icons a {
+    background: transparent !important;
+    font-size: 1.5rem !important;
 }

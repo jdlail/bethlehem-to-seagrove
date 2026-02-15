@@ -6,9 +6,7 @@ header:
   image_fullwidth: "header-image-1600x350.webp"
 ---
 
-<img src="{{ '/images/jack-c-lail-square.webp' | relative_url }}"
-     alt="Jack C. Lail"
-     style="float: right; width: 280px; margin: 0 0 20px 20px; border: 1px solid #ddd; box-shadow: 5px 5px 15px rgba(0,0,0,0.1);">
+<img src="{{ '/images/jack-c-lail-square.webp' | relative_url }}" alt="Jack C. Lail" class="feature-img-responsive">
 
 Jack C. Lail was born on April 6, 1933, into a large farming family in the rural community of Bethlehem, North Carolina. Growing up during the Great Depression, he was the tenth child in a family that faced significant hardships, including the foreclosure of their family farm the year he was born.
 
