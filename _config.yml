@@ -46,7 +46,7 @@ defaults:
 # Production
 # -----------
 
-baseurl: "" # 
+baseurl: / # 
 url: https://BethlehemtoSeagrove.com
 urlimg: "/images/"
 
