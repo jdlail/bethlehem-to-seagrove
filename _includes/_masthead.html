@@ -1,31 +1,17 @@
-{% comment %}
-Cleaned version for root domain BethlehemtoSeagrove.com
-Stripped of site.baseurl manual concatenation to prevent double-pathing.
-{% endcomment %}
-
 {% if page.header == NULL and page.header.image_fullwidth == NULL and page.header.pattern == NULL and
 page.header.background-color == NULL and page.header.title == NULL %}
-
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
 			{% if page.logo != false %}
-			{% if page.logo or site.logo %}
 			<a id="logo" href="{{ '/' | relative_url }}" title="{{ site.title }} - {{ site.slogan }}">
-				{% if page.logo %}
-				<img src="{{ page.logo | prepend: site.urlimg | relative_url }}" alt="{{ site.title }}">
-				{% else %}
-				<img src="{{ '/assets/img/' | append: site.logo | relative_url }}" alt="{{ site.title }}">
-				{% endif %}
+				<img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
 			</a>
-			{% endif %}
 			{% endif %}
 		</div>
 	</div>
 </div>
-
 {% elsif page.header.title %}
-
 <div id="masthead-with-text"
 	style="{% if page.header.background-color %}background: {{ page.header.background-color }};{% endif %} {% if page.header.pattern %}background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.4)), url('{{ page.header.pattern | prepend: site.urlimg | relative_url }}'){% endif %}">
 	<div class="row">
@@ -34,39 +20,30 @@ page.header.background-color == NULL and page.header.title == NULL %}
 		</div>
 	</div>
 </div>
-
 {% elsif page.header.image_fullwidth %}
-
 <div id="masthead">
 	<div class="row">
 		<div class="small-12 columns">
 			{% if page.logo != false %}
-			{% if page.logo or site.logo %}
 			<a id="logo" href="{{ '/' | relative_url }}" title="{{ site.title }} - {{ site.slogan }}">
-				{% if page.logo %}
-				<img src="{{ page.logo | prepend: site.urlimg | relative_url }}" alt="{{ site.title }}">
-				{% else %}
-				<img src="{{ '/assets/img/' | append: site.logo | relative_url }}" alt="{{ site.title }}">
-				{% endif %}
+				<img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
 			</a>
-			{% endif %}
 			{% endif %}
 		</div>
 	</div>
 </div>
-
-{% elsif page.header.pattern %}
-
-<div id="masthead-with-pattern"
-	style="background: url('{{ page.header.pattern | prepend: site.urlimg | relative_url }}')">
-	<div class="row">
-		<figure class="small-12 columns">
-			<img src="{{ page.header.image | prepend: site.urlimg | relative_url }}" alt="{{ site.title }}">
-		</figure>
-	</div>
-</div>
-
 {% endif %}
 
 {% if page.breadcrumb == true %}
 {% include _breadcrumb.html %}
+{% endif %}
+
+{% if page.header.caption %}
+<div class="masthead-caption">
+	{% if page.header.caption_url %}
+	<a href="{{ page.header.caption_url | relative_url }}">{{ page.header.caption }}</a>
+	{% else %}
+	{{ page.header.caption }}
+	{% endif %}
+</div>
+{% endif %}
