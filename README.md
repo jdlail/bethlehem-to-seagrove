@@ -3,7 +3,7 @@
 
 **"Quiet, unassuming, and slow to speak but careful to listen."**
 
-This repository contains the source code and content for the official website of *Bethlehem to Seagrove*, a memoir documenting the 93-year journey of Jack Columbus Lail.
+This repository contains the source code and content for the official website of *Bethlehem to Seagrove*, a memoir documenting the 93-year journey of Jack C. Lail.
 
 The site serves as a digital companion to the book, which captures nearly a century of history—from a childhood in rural Bethlehem during the Great Depression to the founding of Mid-State Plastics and a life of civic leadership in Seagrove, North Carolina.
 
@@ -16,9 +16,9 @@ The site serves as a digital companion to the book, which captures nearly a cent
 ## The Team
 
 * **Author:** Jack C. Lail
+* **Editor & Project Manager:** Sandra Lail
 * **Editor & Website Creator:** Jack D. Lail
-* **Cover Artist:** Betty Edwards Lail (featuring the "Lail Dairy Farmhouse")
-* **Project Manager:** Sandra Lail
+* **Cover Artist:** Betty Edwards Lail (the "Bowman Farm" house)
 * **Proofreader:** Sue Spencer
 
 ## Technical Details
@@ -26,7 +26,7 @@ The site serves as a digital companion to the book, which captures nearly a cent
 This site is built using **Jekyll** and is based on a customized version of the *Feeling Responsive* theme.
 
 * **Framework:** Foundation
-* **Hosting:** GitHub Pages / Netlify
+* **Hosting:** GitHub Pages
 * **Development:** Managed via Google Project IDX
 
 ## License & Copyright
