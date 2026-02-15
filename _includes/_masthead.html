@@ -3,7 +3,7 @@ page.header.background-color == NULL and page.header.title == NULL %}
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			{% if page.logo != false %}
+			{% if site.logo and page.logo != false %}
 			<a id="logo" href="{{ '/' | relative_url }}" title="{{ site.title }} - {{ site.slogan }}">
 				<img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
 			</a>
@@ -24,7 +24,7 @@ page.header.background-color == NULL and page.header.title == NULL %}
 <div id="masthead">
 	<div class="row">
 		<div class="small-12 columns">
-			{% if page.logo != false %}
+			{% if site.logo and page.logo != false %}
 			<a id="logo" href="{{ '/' | relative_url }}" title="{{ site.title }} - {{ site.slogan }}">
 				<img src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
 			</a>
