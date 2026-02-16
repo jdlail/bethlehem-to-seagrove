@@ -125,7 +125,7 @@ sass:
 # ----------
 
 # -----------
-# Favicon Sett  ings
+# Favicon Settings
 # -----------
 
 favicon-32x32: 'favicon-96x96.png' # Mapping your 96px to this slot
@@ -135,3 +135,10 @@ apple-touch-icon-precomposed: 'apple-touch-icon.png'
 # Modern browsers will find favicon.ico and favicon.svg automatically 
 # if they are in assets/img/, but we can specify the tile color here:
 msapplication_tilecolor: '#bad0d4'
+
+# --
+# Google Analytics
+# -------------------
+
+google_analytics_tracking_id: "G-MC3ZSXK2HS"
+

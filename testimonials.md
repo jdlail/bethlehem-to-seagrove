@@ -50,7 +50,7 @@ In total, I spent ten years with Mid-State Plastics, which later became Anchor A
 
 In a recent conversation, Jack joked that had I began my current state job earlier, I could already be retired. While that may be true, I would not trade my years at Mid-State Plastics for anything. It was there that I learned invaluable life lessons—how to treat people fairly, how to strive for excellence each day, and how to lead with integrity. Mid-State Plastics was more than a workplace; it was a family. And that family remains connected today through lifelong friendships, all brought together by Jack Lail.
 
-#### Carry Durham
+#### Carey Durham
 
 While serving as the lead KPMG auditor for Mid-State Plastics from 1980-82, I was always impressed with the character, intelligence, demeanor as well as the team-oriented management style of Jack Lail, the company's founder and president.  
 
