@@ -25,38 +25,6 @@
 }
 
 /* ==========================================================================
-   2. NAVIGATION - DESKTOP (Min-width: 641px)
-   ========================================================================== */
-
-@media only screen and (min-width: 641px) {
-
-    /* Full transparency for the desktop header area */
-    #navigation,
-    .top-bar,
-    .top-bar-section,
-    .top-bar-section ul,
-    .top-bar-section ul li {
-        background: transparent !important;
-        background-color: transparent !important;
-    }
-
-    /* Standard Dark text for white header */
-    #navigation .top-bar-section li:not(.has-form) a {
-        color: #333333 !important;
-        background: transparent !important;
-        padding: 0 15px;
-        font-weight: bold;
-    }
-
-    /* Active & Hover states (Light Blue / Dark Text) */
-    #navigation .top-bar-section li.active:not(.has-form) a,
-    #navigation .top-bar-section li:not(.has-form) a:hover {
-        background-color: #bad0d4 !important;
-        color: #111111 !important;
-    }
-}
-
-/* ==========================================================================
    3. NAVIGATION - MOBILE (Max-width: 640px)
    ========================================================================== */
 

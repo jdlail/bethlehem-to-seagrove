@@ -2,9 +2,48 @@
 layout: page
 title: "Testimonials"
 permalink: /testimonials/
+body_class: testimonials-page
 header:
   image_fullwidth: "header-image-1600x350.webp"
 ---
+<style>
+@media only screen and (min-width: 1px) {
+    /* 1. THE NAMES (h4) */
+    div[itemprop="articleSection"] h4 {
+        border-left: 5px solid #bad0d4 !important;
+        padding: 2px 0 2px 20px !important;
+        margin-top: 50px !important;
+        color: #111111 !important;
+        font-family: 'Volkhov', serif !important;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-size: 1.1rem;
+    }
+
+    /* 2. THE QUOTES (Multi-paragraph) */
+    div[itemprop="articleSection"] h4 ~ p {
+        font-style: italic !important;
+        font-size: 1.1rem !important;
+        line-height: 1.7 !important;
+        color: #444444 !important;
+        padding-left: 20px !important;
+        margin-top: 10px !important;
+        position: relative;
+    }
+
+    /* 3. THE QUOTE MARK */
+    div[itemprop="articleSection"] h4 + p::before {
+        content: "\201C";
+        font-family: 'Volkhov', serif;
+        font-size: 4rem;
+        position: absolute;
+        left: -15px;
+        top: -20px;
+        color: rgba(186, 208, 212, 0.3);
+        z-index: -1;
+    }
+}
+</style>
 
 Colleagues, friends and customers who have had the privilege of working with Jack C. Lail.
 
