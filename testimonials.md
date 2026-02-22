@@ -59,6 +59,11 @@ Jack, via Mid-State Plastics, financed my Program for Management Development edu
 
 Without Jack's input during those thirteen years at MSP, I likely would have been less successful at AMP-Tyco Electronics.
 
+#### Dr. Robert “Bob” Shackleford Jr
+
+You have been a wonderful mentor to me. You have helped
+me be a better man and a better president.
+
 #### Rogon Walker
 
 As I reflect on my many years with your company, Jack, I want to take a moment to express my deepest gratitude for your leadership, mentorship, and support. I started working with you at seventeen years old, eager but inexperienced, and through your guidance, I’ve grown not only in my career but also as a person.
@@ -68,6 +73,18 @@ You believed in me even at times when I didn’t fully believe in myself. Your p
 It’s been an incredible journey from those early days to now, and I owe so much of that success to your leadership and the example you provided. Working under your direction has been one of the most rewarding experiences of my life. When people ask what college I attended, I tell them, “The Lail Institute.”
 
 Thank you for giving me the opportunity to grow, for sharing your knowledge, and for believing in my potential all these years. It has truly been an honor to be part of your team.
+
+#### Dr. Rhett Brown
+
+Noting Lail’s community influence and civic support in many
+different areas, the Wingate University president said at Jack's
+90th birthday party that he reminded him of the fictional hero
+George Bailey from the film “It’s a Wonderful Life.”
+
+“Tonight, so many people would not be where they are without
+Jack Lail.”
+
+Brown said he learned to “never underestimate Jack Lail.”
 
 #### Dale Johnson
 
