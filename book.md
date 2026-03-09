@@ -10,7 +10,7 @@ header:
   <img src="{{ '/images/book-cover-800.webp' | relative_url }}" alt="Bethlehem ... to Seagrove book cover" class="feature-img-responsive">
 </a>
 
-**Order the [paperback](https://a.co/d/00Txjd2c) on Amazon. (Kindle edition coming soon).**
+**Order the [paperback](https://a.co/d/00Txjd2c) or [Kindle edition](https://a.co/d/0aCJOfll).**
 
 *Bethlehem ... to Seagrove* is a 493-page   memoir of the life experiences of Jack C. Lail from birth in a partial log cabin in Alexander County, North Carolina, through his business and civic leadership in Seagrove, North Carolina.
 

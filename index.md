@@ -18,6 +18,6 @@ Jack C. Lail is quiet, unassuming, and slow to speak but careful to listen. Yet,
 
 In his memoir, *Bethlehem ... to Seagrove*, he tells the remarkable story of his 93-year journey. This 493-page book captures his life from his roots in the farming community of Bethlehem during the Great Depression to his success in Seagrove---a story of resilience, integrity, and a life dedicated to his family, his community, and the employees who made his success possible.
 
-Order the [paperback](https://a.co/d/00Txjd2c) on Amazon. (Kindle edition coming soon.)
+Order the [paperback](https://a.co/d/00Txjd2c) or [Kindle edition](https://a.co/d/0aCJOfll).
 
 This site also includes over twelve hours of original audio recordings. These are the source dictations used for the book, providing a rare opportunity to hear the author tell his story in his own voice.
