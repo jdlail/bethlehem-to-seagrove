@@ -9,10 +9,14 @@ slogan: "The Memoir of Jack C. Lail"
 permalink: /index.html
 homepage: true
 ---
-
-<a href="https://a.co/d/00Txjd2c" target="_blank" rel="noopener">
-  <img src="{{ '/images/book-cover-800.webp' | relative_url }}" alt="Bethlehem ... to Seagrove book cover" class="feature-img-responsive">
-</a>
+<div style="float: right; width: 300px; margin: 0 0 15px 20px;">
+  <a href="https://a.co/d/00Txjd2c" target="_blank" rel="noopener">
+    <img src="{{ '/images/2026-03-10_18_23_51_IMG_20260312_084843.webp' | relative_url }}" alt="Elizabeth D. Lail holding the memoir Bethlehem ... to Seagrove by Jack C. Lail Photo courtesy of Elizabeth D. Lail" style="width: 100%; height: auto; display: block;">
+  </a>
+  <p style="font-size: 0.8rem; font-style: italic; line-height: 1.2; margin-top: 5px; color: #555;">
+    Photo courtesy of Elizabeth D. Lail
+  </p>
+</div>
 
 Jack C. Lail is quiet, unassuming, and slow to speak but careful to listen. Yet, he is an influential entrepreneur and community leader who founded Mid-State Plastics and shaped Randolph County for decades.
 
