@@ -4,6 +4,7 @@ title: "Bethlehem ... to Seagrove: A Timeline"
 permalink: /timeline/
 header:
   image_fullwidth: "header-image-1600x350.webp"
+meta_image: "https://bethlehemtoseagrove.com/images/1940-or-41-jack-c-lail.webp"
 ---
 
 <style>

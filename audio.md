@@ -3,7 +3,8 @@ layout: page
 title: "Audio Recordings"
 permalink: /audio/
 header:
-  image_fullwidth: "header-image-1600x350.webp" # Or whatever image you choose
+  image_fullwidth: "header-image-1600x350.webp"
+meta_image: "https://bethlehemtoseagrove.com/images/book-cover-800.webp"
 ---
 
 Presented here are over twelve hours of edited audio dictations used in the creation of *Bethlehem... to Seagrove*.

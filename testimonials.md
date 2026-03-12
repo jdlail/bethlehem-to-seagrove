@@ -5,6 +5,7 @@ permalink: /testimonials/
 body_class: testimonials-page
 header:
   image_fullwidth: "header-image-1600x350.webp"
+meta_image: "https://bethlehemtoseagrove.com/images/2026-03-10_18_23_51_IMG_20260312_084843.webp"
 ---
 <style>
 @media only screen and (min-width: 1px) {

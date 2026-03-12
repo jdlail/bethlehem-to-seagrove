@@ -8,6 +8,7 @@ title: "Bethlehem ... to Seagrove"
 slogan: "The Memoir of Jack C. Lail"
 permalink: /index.html
 homepage: true
+meta_image: "https://bethlehemtoseagrove.com/images/2026-03-10_18_23_51_IMG_20260312_084843.webp"
 ---
 <div style="float: right; width: 300px; margin: 0 0 15px 20px;">
   <a href="https://a.co/d/00Txjd2c" target="_blank" rel="noopener">

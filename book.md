@@ -4,6 +4,7 @@ title: "The Book"
 permalink: /book/
 header:
   image_fullwidth: "header-image-1600x350.webp"
+meta_image: "https://bethlehemtoseagrove.com/images/book-cover-800.webp"
 ---
 
 <a href="https://a.co/d/00Txjd2c" target="_blank" rel="noopener">

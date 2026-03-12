@@ -4,6 +4,7 @@ title: "About the Author"
 permalink: /about/
 header:
   image_fullwidth: "header-image-1600x350.webp"
+meta_image: "https://bethlehemtoseagrove.com/images/jack-c-lail-square.webp"
 ---
 
 <img src="{{ '/images/jack-c-lail-square.webp' | relative_url }}" alt="Jack C. Lail" class="feature-img-responsive">
