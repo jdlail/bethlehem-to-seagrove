@@ -65,6 +65,33 @@ Without Jack's input during those thirteen years at MSP, I likely would have bee
 You have been a wonderful mentor to me. You have helped
 me be a better man and a better president.
 
+#### Elizabeth “Lib” Cox
+
+Jack is the best man, just a good, good man, a man of great character.
+
+I am deeply grateful for the chance that you took on me in the early 1970s
+when I approached you out of the blue for a position at Mid-State Plastics.
+
+When you gave me that initial opportunity, you didn’t just offer me a job,
+you opened a door to a career I never thought possible.
+
+At a time when opportunities for women were limited, you saw my potential,
+encouraged and mentored me giving me confidence and a foundation that changed my life and gave me a very fulfilling career. You valued my opinion and ideas, and that meant a lot.
+
+Placing your faith in me and giving me the responsibility for IBM and being
+the face of Mid-State for that account in a male-dominated industry shaped
+by professional life.
+
+You led with morals and ethics every day, also acknowledging that family is a very important part of a person and included our families and spouses in business trips and events that other businesses would not.
+
+With your encouragement, I was able to be of service in the community, which was very important to me. You didn’t just tolerate it; you promoted and were a fine example of service in the community yourself.
+
+I am very proud of my work career, but also my service on the United Way as a board member, Vice Chairperson and the Chairperson in 1994 when over $1 million was raised. Serving on the Randolph Economic Development, the Randolph Asheboro YMCA Board and at my church also allowed me to serve my community and you were very supportive.
+
+You believed that continuing education was important and encouraged all employees to better themselves and were happy to pay for education, even if it meant the person would be leaving the company for another type of job. One person I remember went to school while working at Mid-State and the company paid her tuition, and she became a teacher and Jack thought that was fine, “She will be teaching students in the community and that serves a purpose for us all.”
+
+Thank you, Jack.
+
 #### Rogon Walker
 
 As I reflect on my many years with your company, Jack, I want to take a moment to express my deepest gratitude for your leadership, mentorship, and support. I started working with you at seventeen years old, eager but inexperienced, and through your guidance, I’ve grown not only in my career but also as a person.
@@ -95,6 +122,12 @@ Jack made the transition extremely comfortable for both me and my family, helpin
 
 Jack taught me how to manage in the business world and encouraged my professional development by sending me to business school. He trusted me to make decisions and was always there to guide and support me when needed. Jack was loyal to his employees through both good and challenging times, and he played a very important role in shaping my career.
 
+#### Scott Auman
+
+I started at MSP in 1977 when I was in high school between football and baseball season. Jack had a great 4-hour program for after school to learn the vocational side of working. Rogon Walker was my four-hour partner that split the eight-hour shift with me. Two years later I was full time, and we were building our second plant of MSP's future four total plants. I worked my way to plant manager by 1988 and have been in that position since. At MSP we were a happy family of friends.
+
+Because of the opportunities Jack has given me through the years, my wife Vickie (a former MSP employee) and I have raised three children (putting two through college and one served in the military). I am just one of many blessed employees that Jack has not only employed but encouraged to work hard to be successful in life. What he gave us was priceless. I could never repay him and his family.
+
 #### Sandra Spivey Ayers
 
 Growing up in the Seagrove community, it was almost a rite of passage to work at Mid-State Plastics at some point. My journey there began the summer after my senior year of high school, when I worked third shift in the Customs plant. Throughout college, I returned each summer to work third shift—except for my final summer, when Jack graciously offered me an internship in the office to gain business experience. He had previously written a letter of recommendation supporting my acceptance into the Business School at UNC-Chapel Hill, for which I remain deeply grateful.
@@ -112,3 +145,7 @@ In a recent conversation, Jack joked that had I began my current state job earli
 While serving as the lead KPMG auditor for Mid-State Plastics from 1980-82, I was always impressed with the character, intelligence, demeanor as well as the team-oriented management style of Jack Lail, the company's founder and president.  
 
 This, I thought, was the type of person I would love to work for some day.  Well, fast forward seven years later and that dream manifested into my being named MSP's Vice President-Finance and Administration.  By then, Jack had led this molded plastics manufacturing firm to even greater success, assembling the best team from top to bottom a person could ever work with.  It proved the gold standard of any organization I was associated with over my 45-year business career.
+
+#### Scott Hunsucker
+
+Classified Jack as the “E.F. Hutton” of Randolph County in remarks at the 90th birthday party.
